@@ -1,0 +1,53 @@
+body{
+    background-image: url(IMG-20210725-WA0007.jpg);
+    background-repeat:no-repeat ;
+    background-position: right top;
+    background-attachment: scroll;
+   
+}
+p{
+    position: relative;
+    top: 550px;
+    
+}
+h{
+    background-color:rgb(233, 123, 20);
+}
+textarea{
+    background-color: chartreuse;
+}
+button{
+    background-color: teal;
+}
+.cat{
+    position: fixed;
+    left: 50px;
+    top: 100px;
+
+}
+.dog{
+    position: fixed;
+    left: 50px;
+    top:200px;
+
+}
+.cow{
+    position: fixed;
+    left: 50px;
+    top:300px;
+}
+.goat{
+    position: fixed;
+    left: 50px;
+    top:400px;
+}
+.monkey{
+    position: fixed;
+    left: 50px;
+    top: 500px;
+}
+.red{
+    position: fixed;
+    left: 70px;
+    top: 400px;
+}
